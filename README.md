@@ -19,3 +19,14 @@
 - Exceute `pip install -r requirements.txt`.
 - run `python manage.py runserver`.
 - Go to `127.0.0.1::8000` in your web browser.
+
+
+<h2>Author</h2>
+<blockquote>
+  Devanshu Dabas<br>
+  Email: devanshudabas@gmail.com
+</blockquote>
+
+<div align="center">
+    <h3>========Thank You !!!=========</h3>
+</div>
